@@ -47,8 +47,8 @@ class Fretboard {
             stringSpacing: 40,
             minStringSize: 0.2,
             circleRadius: 18,
-            notes: [['E', 'F', 'F#\\/Gb', 'G', 'G#\\/Ab', 'A', 'A#\\/Bb', 'B', 'C', 'C#\\/Db', 'D', 'D#\\/Eb'],
-                    ['E', 'F', 'Gb\\/F#', 'G', 'Ab\\/G#', 'A', 'Bb\\/A#', 'B', 'C', 'Db\\/C#', 'D', 'Eb\\/D#']],
+            notes: [['E', 'F', 'F#\\Gb', 'G', 'G#\\Ab', 'A', 'A#\\Bb', 'B', 'C', 'C#\\Db', 'D', 'D#\\Eb'],
+                    ['E', 'F', 'Gb\\F#', 'G', 'Ab\\G#', 'A', 'Bb\\A#', 'B', 'C', 'Db\\C#', 'D', 'Eb\\D#']],
             sign: ['♯', '♭'],
         };
         this.consts.numStrings = this.consts.stringIntervals.length;

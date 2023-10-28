@@ -31,7 +31,7 @@ g.note.visible {
 }
 
 g.note.blue {
-  fill: steelblue;
+  fill: rgb(79, 11, 83);
 }
 
 g.note.blue > text {
@@ -49,7 +49,7 @@ g.note.black > text {
 }
 
 g.note.red {
-  fill: indianred;
+  fill: rgb(232, 210, 62);
 }
 
 g.note.red > text {

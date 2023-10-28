@@ -133,7 +133,7 @@ button.color:hover {
 }
 
 .color.blue {
-  background-color: steelblue;
+  background-color: rgb(79, 11, 83);
 }
 
 .color.black {
@@ -145,7 +145,7 @@ button.color:hover {
 }
 
 .color.red {
-  background-color: indianred;
+  background-color: rgb(232, 210, 62);
 }
 
 .color.white {
